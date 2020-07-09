@@ -1,0 +1,22 @@
+h2{
+    color:black;
+}
+.intro{
+    margin-top:30px;
+    margin-left:160px;
+    margin-right:40px;
+    padding-left:50px;
+    padding-right:50px;
+    padding-top: 50px;
+
+}
+.buttons{
+    float:right;
+    
+}
+.btn{
+    background-color: white;
+}
+.btn:hover{
+background-color: black
+}
