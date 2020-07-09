@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("https://photosfine.files.wordpress.com/2012/04/most-of-buildings.jpg");
+  opacity: 1;
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.navbar{
+    height: 70px;
+}
+.navbar-brand{
+    color:black;
+    font-style: italic;
+    font-weight: normal;
+    font-variant: small-caps;
+    font-size: 50px;
+    text-align: left;
+    float: left;
+
+}
+.nav-link{
+    color: black;
+    font-size: larger;
+    
+}
+
